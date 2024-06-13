@@ -1,0 +1,1 @@
+node-sass --source-map true sass/style.scss css/style.css --output-style expanded && postcss -r css/style.css
